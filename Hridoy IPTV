@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Sony Sab, Sony Sab 4K
+http://185.90.242.200/?watch=R-EX/HINDI_SONY_SAB_HD-in&token=RED_GiPskfMrt9q1A10_kFUP5Q==,1598735086.0316535914&t=0&s=10&p=1
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Ekattor
