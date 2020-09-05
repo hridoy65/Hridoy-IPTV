@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Ekattor
 http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",GTV
-http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Sab
@@ -40,15 +40,15 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Aath
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",History TV HD
-https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Nat Geo
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Nat Geo Wild
-https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Nat Geo People
-https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sangeet Bangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Mastii
@@ -56,7 +56,7 @@ https://itpolly.iptv.digijadoo.net/live/mastii/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",MTV Beats India
-https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",9X Jhakaas
@@ -87,7 +87,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2DL32X1" group-title="Mx Player",Sony Wah HD(VPN)
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/312YPa1" group-title="Mx Player",Sangeet Bangla
+#EXTINF:0 tvg-logo="https://bit.ly/312YPa1" group-title="Mx Player",Sangeet Bangla(VPN)
 https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2Y9KTc8" group-title="Mx Player",9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
@@ -115,217 +115,217 @@ https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
 
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Gold
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Gold International
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star World
-https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Colors Rishtey
-https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Banglavision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Boishakhi
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",CHANNEL 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Ekattor
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",GTV
-http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Independent
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",MOHONA TV
-https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",MY TV
-https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",RTV
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
+https://robi.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Sangsad TV
-https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",SATV
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+https://robi.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Shomoy TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Probashi Bangla
-https://edge01.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Jalsha HD
-https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+https://robi.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Colors Bangla HD
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+https://robi.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Colors Bangla SD
-https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Ruposhi Bangla
-https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Tara Bangla
-https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",SangeetBangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",DD Sports
-https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",ZEE TV SD
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Zee Bollywood
-https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Plus
-https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Plus HD
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Star Gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Colors HD
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Colors Infinity
-https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Fox Life
-https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Fox Life Hindi
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/83.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",BBC Lifestyle
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",FYI TV18
-https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",TLC HD English
-https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",History TV HD
-https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nat Geo
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nat Geo Wild
-https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nat Geo People
-https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nick
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nick HD+
-https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nick Jr
-https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Nick Sonic
-https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Cheebies Asia
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Comedy Central
-https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Diva
-https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Movies Now
-https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Lotus Macaw
-https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Rai Italia
-https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Manoranjan Movies
-https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",NHKWorld Japan
-https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",YTN
-https://edge01.iptv.digijadoo.net/live/ytn/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ytn/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Arirang
-https://edge01.iptv.digijadoo.net/live/arirang/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/arirang/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",VH1
-https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/vh1/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Enterr Ten
-https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",PTV Global
-https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",PTV Home
-https://edge01.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",PTV News
-https://edge01.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",PTV World
-https://edge01.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Ary Asia
-https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Ary Zindigi
-https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Hum Masala
-https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Geo News
-https://edge01.iptv.digijadoo.net/live/geo_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/geo_news/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/312YPa1" group-title="Jadoo",Sangeet Bangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2Ebqpc5" group-title="Jadoo",Dhoom Music
-https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3aJm7F7" group-title="Jadoo",Mastii
 https://itpolly.iptv.digijadoo.net/live/mastii/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3h6yVaT" group-title="Jadoo",Music India
 https://itpolly.iptv.digijadoo.net/live/music_india/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Zoom
-https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
+https://robi.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Zing
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",MTV Beats India
-https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3473rO1" group-title="Jadoo",Ary Muzik
-https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m
+https://robi.iptv.digijadoo.net/live/ary_muzik/chunks.m
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",B4U Music
-https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Al Jazeera
-https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",DW
-https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/dw/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Euronews
-https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",CNA
-https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/channel_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",CNN
-https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",ET Now
-https://edge01.iptv.digijadoo.net/live/et_now/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/et_now/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",ABP News
-https://edge01.iptv.digijadoo.net/live/abp_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/abp_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",CNBC18
-https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/cnbc/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",APN
-https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Digi Jadoo",Times Now
-https://edge01.iptv.digijadoo.net/live/times_now/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/times_now/chunks.m3u8
 
 
 
