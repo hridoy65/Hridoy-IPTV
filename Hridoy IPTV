@@ -28,7 +28,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Max HD
-http://witv.live:8880/live/33364/07007/788.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1600417037~acl=%2f*~data=hdntl~hmac=dae1d57fbed07f94964e8548c954738f90edf940f50b47560c29e47f34baeb44/master_3500.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Max HD(VPN)
