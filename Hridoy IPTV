@@ -1,4 +1,6 @@
 #EXTM3U
+EXTINF:-1 tvg-id="ext" group-title="Discovery FTP",Kabhi Alvida Naa Kehna
+http://cdn1.discoveryftp.net/Movies/Hindi/2006/Kabhi%20Alvida%20Naa%20Kehna/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%20%281080p%20BluRay%20x265%20Natty%29.mkv
 EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Atkan Chatkan
 https://doc-0s-2g-docs.googleusercontent.com/docs/securesc/l3vgougcm149dlftulfs94g65qr04luk/pb46gl635gfmpo9hf204enh6h4gpc98t/1600364175000/15216206719044351902/15216206719044351902/1Hj3lYHbs903cBuSx62x5CSW221JpPRoB?e=download&authuser=3&nonce=2vi5g9bvsqoq0&user=15216206719044351902&hash=l8furglok2sb3s8qjq2ta24pd65gj09s
 EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Chalo Dilli
