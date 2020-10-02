@@ -1,20 +1,4 @@
 #EXTM3U
-EXTINF:-1 tvg-id="ext" group-title="Temporary",Kabhi Alvida Naa Kehna
-http://cdn1.discoveryftp.net/Movies/Hindi/2006/Kabhi%20Alvida%20Naa%20Kehna/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%20%281080p%20BluRay%20x265%20Natty%29.mkv
-EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Atkan Chatkan
-https://doc-0s-2g-docs.googleusercontent.com/docs/securesc/l3vgougcm149dlftulfs94g65qr04luk/pb46gl635gfmpo9hf204enh6h4gpc98t/1600364175000/15216206719044351902/15216206719044351902/1Hj3lYHbs903cBuSx62x5CSW221JpPRoB?e=download&authuser=3&nonce=2vi5g9bvsqoq0&user=15216206719044351902&hash=l8furglok2sb3s8qjq2ta24pd65gj09s
-EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Chalo Dilli
-https://s15.123movieulz.org/wqtadd3nfqnuzwv4jmmemnzlaxmmarnqyu6h6xgnl2xz6d3fa7dncw2c3nfq/Chalo_Dilli_2011_Hindi_0goMovies_Com.mp4
-EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Hoursfull
-https://s2.123movieulz.org/wqtacq3gfqnuzwv4jmnumkt3ipgfendznfebdsge4h67hqfej6idc35hkxbq/Housefull_(2010)_Hindi_0goMovies_Net.mp4
-EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Housefull 2
-https://s7.123movieulz.org/wqtaco3ofqnuzwv4jmmemmjvbhgjfcuxuhniwbuifdycqcfs27rkmrkzkbtq/Housefull_2_(2012)_HD_Hindi_0goMovies_Com.mp4
-EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Housefull 3
-https://s7.123movieulz.org/wqtad4kzfqnuzwv4jmnumkbjkrmwfmuekmygudqragla5qpllhfepwuddwaq/Housefull_3_2016_Hindi_0goMovies_Net.mp4
-EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Housefull 4
-https://s15.123movieulz.org/wqtadudjfqnuzwv4jmmem3zkksbnqnczz5r33igp74jqx4r5svz5o5ghkrgq/v.mp4
-#EXTINF:-1 tvg-id="ext" group-title="Hindi Movies",Kabhi Khushi Kabhi Gham
-http://index1.circleftp.net/ftp1/Hindi%20Movies/2001/Kabhi%20Khushi%20Kabhie%20Gham%202001%20Hindi%201080P%20Blu%20Ray%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D/Kabhi%20Khushi%20Kabhie%20Gham%202001%20Hindi%201080P%20Blu%20Ray%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D.mkv
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Jamuna TV
 http://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Ekattor
@@ -40,7 +24,7 @@ http://witv.live:8880/live/33364/07007/781.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Sab HD
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Sab HD(VPN)
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Favourites",Sony Max HD
