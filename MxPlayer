@@ -1,6 +1,4 @@
 #EXTM3U
-
-#EXTM3U
 #EXTINF:0 tvg-logo="https://bit.ly/2Q0QFs1" group-title="Mx Player",Sony Sab HD(VPN)
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2PUI7Dc" group-title="Mx Player",Sony Set HD(VPN)
